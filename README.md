@@ -1,3 +1,6 @@
+# React foundaments 
+This repository contains all React basis and compose part of the Udemy course React + Redux. Fundamentos e 2 Apps do absoluto zero, offered by Cod3r courses.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
